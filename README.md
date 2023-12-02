@@ -46,8 +46,8 @@ This Sudoku Solver, written in Java, aims to efficiently solve Sudoku puzzles.
 
 ## Usage
 
-- [ ] Clone the repository.
-- [ ] If on a Linux system, execute `./sudoku.sh` to run the Sudoku Solver.
+- Clone the repository.
+- If on a Linux system, execute `./sudoku.sh` to run the Sudoku Solver.
   
 ## Templates for Sudoku Resolver
 
