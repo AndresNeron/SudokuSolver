@@ -4,46 +4,45 @@ This Sudoku Solver, written in Java, aims to efficiently solve Sudoku puzzles.
 
 ## Project Structure
 
-.
-├── bin
-│   ├── Classes
-│   │   ├── Box.class
-│   │   ├── BoxMatrix.class
-│   │   ├── Column.class
-│   │   ├── CustomCSVReader.class
-│   │   ├── Grid.class
-│   │   ├── Group.class
-│   │   └── Row.class
-│   └── Main
-│       └── Main.class
-├── README.md
-├── src
-│   ├── Classes
-│   │   ├── Box.java
-│   │   ├── BoxMatrix.java
-│   │   ├── Column.java
-│   │   ├── CustomCSVReader.java
-│   │   ├── Grid.java
-│   │   ├── Group.java
-│   │   └── Row.java
-│   └── Main
-│       └── Main.java
-├── sudoku.sh
-└── templates
-    ├── generator.sh
-    └── samples
-        ├── sample_1.csv
-        ├── sample_1_solution.csv
-        ├── sample_2.csv
-        ├── sample_3.csv
-        ├── sample_4.csv
-        ├── sample_5.csv
-        ├── sample_6.csv
-        ├── sample_7.csv
-        ├── sample_8.csv
-        ├── sample_9.csv
-        └── sample.csv
-
+    .
+    ├── bin
+    │   ├── Classes
+    │   │   ├── Box.class
+    │   │   ├── BoxMatrix.class
+    │   │   ├── Column.class
+    │   │   ├── CustomCSVReader.class
+    │   │   ├── Grid.class
+    │   │   ├── Group.class
+    │   │   └── Row.class
+    │   └── Main
+    │       └── Main.class
+    ├── README.md
+    ├── src
+    │   ├── Classes
+    │   │   ├── Box.java
+    │   │   ├── BoxMatrix.java
+    │   │   ├── Column.java
+    │   │   ├── CustomCSVReader.java
+    │   │   ├── Grid.java
+    │   │   ├── Group.java
+    │   │   └── Row.java
+    │   └── Main
+    │       └── Main.java
+    ├── sudoku.sh
+    └── templates
+        ├── generator.sh
+        └── samples
+            ├── sample_1.csv
+            ├── sample_1_solution.csv
+            ├── sample_2.csv
+            ├── sample_3.csv
+            ├── sample_4.csv
+            ├── sample_5.csv
+            ├── sample_6.csv
+            ├── sample_7.csv
+            ├── sample_8.csv
+            ├── sample_9.csv
+            └── sample.csv
 
 ## Usage
 
