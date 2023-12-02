@@ -53,9 +53,10 @@ This Sudoku Solver, written in Java, aims to efficiently solve Sudoku puzzles.
 
 The templates for the Sudoku Resolver consist of:
 - CSV files.
-- Each CSV file contains 81 lines with three integer values \(x,y,z\), where \(x, y \in [1,9]\) and \(z \in [0,9]\). 
-This represents a matrix of \(9 \times 9\) entries with \(x\) being rows, and \(y\) being columns, and \(z\) the corresponding 
-value, in the range \([0,9]\). The \(0\) represents that there is not a discovered value; it is missing.
+
+- Each CSV file contains 81 lines representing a 9x9 matrix grid, with each line containing three integer values (x, y, z). 
+Here, x and y are within the range [1,9], denoting rows and columns, respectively, while z falls within the range [0,9] representing 
+the corresponding value in the grid. The value 0 indicates an undiscovered cell.
 
 <a name=""></a>
 
