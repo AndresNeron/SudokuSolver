@@ -1,8 +1,8 @@
-## Sudoku Solver
+# Sudoku Solver
 
 This Sudoku Solver, written in Java, aims to efficiently solve Sudoku puzzles.
 
-### Project Structure
+## Project Structure
 
 .
 ├── bin
@@ -45,12 +45,12 @@ This Sudoku Solver, written in Java, aims to efficiently solve Sudoku puzzles.
         └── sample.csv
 
 
-### Usage
+## Usage
 
 - [ ] Clone the repository.
 - [ ] If on a Linux system, execute `./sudoku.sh` to run the Sudoku Solver.
   
-### Templates for Sudoku Resolver
+## Templates for Sudoku Resolver
 
 The templates for the Sudoku Resolver consist of:
 - CSV files.
