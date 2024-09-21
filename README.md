@@ -58,6 +58,16 @@ The templates for the Sudoku Resolver consist of:
 Here, x and y are within the range [1,9], denoting rows and columns, respectively, while z falls within the range [0,9] representing 
 the corresponding value in the grid. The value 0 indicates an undiscovered cell.
 
+## Active development.
+
+I am developing a GUI for this sudoku solver using JavaFX. 
+Added to this, i'm adding functionalities related to playing the game 
+as end user. 
+
+You will can select your color palette in the the options. 
+Wait, it's coming soon.
+
+
 <a name=""></a>
 
 ## License
