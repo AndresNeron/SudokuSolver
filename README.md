@@ -64,7 +64,7 @@ I am developing a GUI for this sudoku solver using JavaFX.
 Added to this, i'm adding functionalities related to playing the game 
 as end user. 
 
-You will can select your color palette in the the options. 
+You will can select your color palette in the options. 
 Wait, it's coming soon.
 
 
